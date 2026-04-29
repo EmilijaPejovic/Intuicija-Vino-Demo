@@ -5,7 +5,7 @@ A responsive, modern website developed for the **Intuicija Vino** brand.
 The project was built in collaboration with a professional graphic & visual designer, focusing on clean aesthetics, user experience, and high-quality visual presentation.
 
 ## 🌐 Live Website
-https://intuicijavino.rs/
+👉 [Explore the live website](https://intuicijavino.rs/)
 
 ## 💡 About the Project
 This website represents a complete frontend solution for a wine brand, including:
