@@ -7,14 +7,16 @@ The project was built in collaboration with a professional graphic & visual desi
 ## 🌐 Live Website
 👉 [Explore the live website](https://intuicijavino.rs/)
 
-## 💡 About the Project
-This website represents a complete frontend solution for a wine brand, including:
+## 💡 Features
+This website represents a complete frontend implementation for a wine brand, including:
 
-- Product presentation
-- Interactive storytelling sections
-- Order/contact form
-- Interactive user experience
+- Fully responsive design across all screen sizes
+- Dynamic content, translations, and interactions powered by JavaScript
+- Interactive sections with smooth user experience
+- Order/contact form with direct email submission
+- Input validation using regex
 - Bilingual support (Serbian / English)
+  
 
 ## ⚙️ Technologies
 - JavaScript
@@ -22,10 +24,9 @@ This website represents a complete frontend solution for a wine brand, including
 - CSS3
 
 ## 🎯 Focus
-- Responsive design across all devices  
 - Clean and minimal UI  
 - Smooth user interactions  
 - Performance optimization  
 
 ## 📌 Status
-Live project / demo version
+Live hosted project
