@@ -16,6 +16,7 @@ This website represents a complete frontend implementation for a wine brand, inc
 - Order/contact form with direct email submission
 - Input validation using regex
 - Bilingual support (Serbian / English)
+- SEO (meta tags, semantic structure)
   
 
 ## ⚙️ Technologies
