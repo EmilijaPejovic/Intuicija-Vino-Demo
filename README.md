@@ -2,7 +2,7 @@
 
 A responsive, modern website developed for the **Intuicija Vino** brand.
 
-The project was developed in collaboration with a professional visual & graphic designer, based on a Figma design, focusing on clean aesthetics, user experience, and high-quality visual presentation.
+The project was developed in collaboration with a professional graphic & visual designer, based on a Figma design, focusing on clean aesthetics, user experience, and high-quality visual presentation.
 
 ## 🌐 Live Website
 👉 [Explore the live website](https://intuicijavino.rs/)
